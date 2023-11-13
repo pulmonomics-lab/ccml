@@ -21,7 +21,7 @@ install.packages("ccml")
 Or from GitHub:
 ``` r
 library(devtools)
-devtools::install_github("ZhoulabCPH/ccml")
+devtools::install_github("pulmonomics-lab/ccml/")
 ```
 Or install locally：
 ``` r
